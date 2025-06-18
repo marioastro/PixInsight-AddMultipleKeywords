@@ -9,7 +9,7 @@
     </p>
   </description>
   <platform os="all" arch="noarch" version="1.8.9:2.0.0">
-    <package fileName="AddMultipleKeywords-v1.2.0..zip"
+    <package fileName="AddMultipleKeywords-v1.2.0.zip"
              sha1="9ec228ff7e80d8bef3ad6fed25efd9f5d9eb2592"
              type="script"
              releaseDate="20250611">
