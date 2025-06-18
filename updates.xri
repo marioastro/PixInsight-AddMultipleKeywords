@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+  <description>
+    <p>
+      AddMultipleKeywords script to apply custom FITS keywords to .xisf or .fits files.
+    </p>
+    <p>
+      Written by Mario Sandri – visit: https://www.astronomiavallidelnoce.it
+    </p>
+  </description>
+  <platform os="all" arch="noarch" version="1.8.9:2.0.0">
+    <package fileName="AddMultipleKeywords-v1.2.0.zip"
+             sha1="9ec228ff7e80d8bef3ad6fed25efd9f5d9eb2592"
+             type="script"
+             releaseDate="20250611">
+      <title>AddMultipleKeywords</title>
+      <description>
+        <p>PixInsight script with GUI for batch FITS keyword management.</p>
+      </description>
+    </package>
+  </platform>
+</xri>
