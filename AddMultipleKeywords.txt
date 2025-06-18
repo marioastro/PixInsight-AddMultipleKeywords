@@ -1,0 +1,1 @@
+PixInsight script to add multiple FITS keywords with GUI, presets, validation, and logging.

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Updates>
+  <Module>
+    <Name>AddMultipleKeywords</Name>
+    <Version>1.2.0</Version>
+    <Author>Mario Sandri</Author>
+    <Description>Adds custom FITS keywords to .fits/.xisf files with GUI, presets and validation.</Description>
+    <Copyright>© 2025 Mario Sandri</Copyright>
+    <URL>https://www.astronomiavallidelnoce.it</URL>
+    <Category>Utilities</Category>
+    <File type="script">AddMultipleKeywords.js</File>
+    <File type="image">AddMultipleKeywords.png</File>
+  </Module>
+</Updates>
